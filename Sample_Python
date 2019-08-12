@@ -1,0 +1,29 @@
+#integer
+x = 2
+type(x)
+
+a = 'Hello Dear'
+print(a)
+#---
+
+a = 2.5
+
+c = x + a
+print (c)
+
+import math
+
+print(math.sqrt(x))
+print(round(math.sqrt(x)))
+
+d = "Hi"
+e = "Zubin"
+
+f = d + " " + e
+
+print(f)
+
+z = (a==x)
+
+print(z)
+
